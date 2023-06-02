@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: #f0f2f5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container{
+    display: flex;
+}
+
+.left-div,.right-div{
+    width: 50%;
+}
+img {
+    margin: 181px 226px;
+    padding: 23px 34px;
+    height: 45px;
+  }
